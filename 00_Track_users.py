@@ -27,7 +27,7 @@ def current_users(events):
             print("Error type:", type(e))
             print("Error description:", e)
 
-            #--------------------------------------try block to fix any key Errors
+            #--------------------------------------try block to fix and catch some Errors
     return machines
 
 #--------------------------------------------define function that generates report
